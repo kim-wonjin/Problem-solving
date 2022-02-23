@@ -1,3 +1,5 @@
+# 일곱난쟁이 
+
 arr = []
 
 for i in range(9): 
