@@ -8,6 +8,7 @@ Algorithm Problem Solving
 | 2193  |    DP     |   [이친수](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/2193.cpp)    |     S3     |  C++   |
 | 10844 |    DP     | [쉬운 계단](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/10844.cpp)  |     S1     |  C++   |
 | 1699  |    DP     | [제곱수의 합](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/1699.cpp) |     S3     |  C++   |
+| 1260  |    DFS,BFS     | [DFS와 BFS](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/1260.cpp) |     S2     |  C++   |
 
 ## SW Expert Academy
 
