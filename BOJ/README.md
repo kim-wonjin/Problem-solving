@@ -12,3 +12,5 @@ BOJ
 | 2667  |    DFS    | [단지번호붙이기](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/2667.cpp) |     S1     |  C++   |
 | 1141  |    정렬    | [접두사](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/1141.cpp) |     S2     |  C++   |
 | 2597  |    DP     | [계단 오르기](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/2597.cpp) |     S3     |  C++   |
+| 2133  |    DP     | [타일 채우기](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/2133.cpp) |     G5     |  C++   |
+| 12865 |    DP     | [평범한 배낭](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/12865.cpp) |     G5     |  C++   |
