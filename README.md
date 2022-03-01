@@ -14,6 +14,7 @@
 | :---: | :-------: | :-----------------------------------------------------------------------------------: | :--------: | :----: |
 | 1759  | 백트래킹 |  [암호 만들기](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/1759.cpp)  |     G5     | c++ |
 ></table>
+></details>
 
 ### ❄ DFS, BFS
 ><details>
@@ -25,6 +26,7 @@
 | 2667  |  DFS,BFS  | [단지번호붙이기](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/2667.cpp) |     S1     |  C++   |
 | 1012  |  DFS,BFS  | [유기농 배추](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/1012.cpp) |     S2     |  C++   |
 ></table>
+></details>
 
 ### ❄ DP
 ><details>
@@ -40,6 +42,7 @@
 | 12865 |    DP     | [평범한 배낭](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/12865.cpp) |     G5     |  C++   |
 | 1915  |    DP     | [가장 큰 정사각형](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/1915.cpp) |     G4     |  C++  |
 ></table>
+></details>
 
 ### ❄ Greedy
 ><details>
@@ -49,6 +52,7 @@
 | :--: | :----: | :---------------------------------------------------------------------------------: | :--------: | :---: |
 | 1946 | Greedy | [신입 사원](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/1946.cpp) |     S1     |  C++  |
 ></table>
+></details>
 
 ### ❄ 기타
 ><details>
@@ -59,6 +63,7 @@
 | 2309  |  완전 탐색  |  [일곱난쟁이](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/2309.py)  |     B2     | Python |
 | 1141  |    정렬    | [접두사](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/1141.cpp) |     S2     |  C++   |
 ></table>
+></details>
 
 
 ## SW Expert Academy
