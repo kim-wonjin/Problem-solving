@@ -3,13 +3,14 @@ Algorithm Problem Solving
 ## BAEKJOON ONLINE JUDGE
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{sobaek2000})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={sobaek2000})](https://solved.ac/{sobaek2000})
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{sobaek2000})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={sobaek2000})](https://solved.ac/{sobaek2000})
 
+### Greedy
   ><details>
   ><summary>문제 목록</summary><br>
- Topics   |                                          Title                                           | Difficulty | Stack  |
+|  No.  |   Topics   |                                          Title                                           | Difficulty | Stack  |
 | :---: | :-------: | :--------------------------------------------------------------------------------------: | :--------: | :----: |
 | 2309  | 완전 탐색 |   [일곱난쟁이](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/2309.py)    |     B2     | Python |
 | 2193  |    DP     |     [이친수](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/2193.cpp)     |     S3     |  C++   |
