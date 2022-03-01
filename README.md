@@ -3,5 +3,3 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sobaek2000)](https://solved.ac/sobaek2000)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sobaek2000)](https://solved.ac/sobaek2000)
