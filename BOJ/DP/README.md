@@ -9,3 +9,4 @@
 | 2133  |    DP     | [타일 채우기](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/2133.cpp) |     G5     |  C++   |
 | 12865 |    DP     | [평범한 배낭](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/12865.cpp) |     G5     |  C++   |
 | 1915  |    DP     | [가장 큰 정사각형](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/1915.cpp) |     G4     |  C++  |
+| 1106  |    DP     | [호텔](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/1106.cpp) |     S1     |  C++  |

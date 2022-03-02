@@ -25,7 +25,7 @@ int main()
 	bzero(stuff, sizeof(stuff));
 	bzero(dp, sizeof(dp));
 
-	for (i =1; i < N + 1; i++)
+	for (i =1; i < N + 1; i++) 
 		cin >> stuff[i].weight >> stuff[i].value;
 	
 	for (i = 1; i < N + 1; i++)
