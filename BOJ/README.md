@@ -11,6 +11,7 @@
 |  No.  |  Topics   |                                         Title                                         | Difficulty | Stack  |
 | :---: | :-------: | :-----------------------------------------------------------------------------------: | :--------: | :----: |
 | 1759  | 백트래킹 |  [암호 만들기](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/Backtracking/1759.cpp)  |     G5     | c++ |
+| 14889 | 백트래킹 | [스타트와 링크](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/Backtracking/14889.cpp) |     S2     |  c++  |
 ></table>
 ></details>
 
@@ -50,6 +51,7 @@
 | No.  | Topics |                                        Title                                        | Difficulty | Stack |
 | :--: | :----: | :---------------------------------------------------------------------------------: | :--------: | :---: |
 | 1946 | Greedy | [신입 사원](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/Greedy/1946.cpp) |     S1     |  C++  |
+| 1448 | Greedy | [삼각형 만들기](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/Greedy/1448.cpp) |     S3     |  C++  |
 ></table>
 ></details>
 
