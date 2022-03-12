@@ -58,7 +58,7 @@
 ### ❄ 기타
 ><details>
 ><summary>문제 목록</summary><br>
-><table>
+><table> 
 |  No.  |  Topics   |                                         Title                                         | Difficulty | Stack  |
 | :---: | :-------: | :-----------------------------------------------------------------------------------: | :--------: | :----: |
 | 2309  |  완전 탐색  |  [일곱난쟁이](https://github.com/kim-wonjin/Problem-solving/blob/master/BOJ/기타/2309.py)  |     B2     | Python |
