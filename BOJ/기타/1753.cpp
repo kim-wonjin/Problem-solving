@@ -1,12 +1,13 @@
 /* 최단경로 */
 
 #include <iostream>
-#include <cstring>
+#include <queue>
+#include <vector>
 
 using namespace std;
 
-int w[20001][20001];
-int visit[20001];
+vector <pair<int, int>> adj[300001];
+int min[20001];
 
 int main ()
 {
@@ -16,13 +17,10 @@ int main ()
 
 	int V, E, K, i, j, a, b;
 
-	bzero(w, sizeof(w));
-	bzero(visit, sizeof(visit));
-	
 	cin >> V >> E;
 	cin >> K;
 	for (i = 0; i < E; i++)
-		cin >> a >> b >> w[a][b];
+		cin >> a >> adj[a].second >> adj[a].first;
 
 	for (i = 0; i < V + 1; i++)
 	{
@@ -30,6 +28,4 @@ int main ()
 			cout << w[i][j] << ' ';
 		cout << '\n';
 	}
-
-
 }
